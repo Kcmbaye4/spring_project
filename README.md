@@ -7,3 +7,5 @@ l'enregistrement des identifiants Google OAuth 2.0 : https://console.cloud.googl
 https://console.cloud.google.com/apis/dashboard
 
 l'enregistrement des identifiants Facebook OAuth 2.0 : https://developers.facebook.com/docs/facebook-login
+
+callback URL : http://localhost:8082/login/oauth2/code/github
